@@ -1,6 +1,6 @@
-# What is the Felys programming language?
+# The Felys Programming Language
 
-This is a fan-made programming language for Elysia. The motivation is to create a language where Elysia exists, so regardless of how this language gets developed in the future, there must exist a built-in identifier called `__elysia__` or `——爱莉希雅——`, depending on the language (en/cn) you are coding in. Having this organization is just for [myself](https://github.com/FelysNeko) to manage relevant repositories.
+This is a fan-made programming language for Elysia. It is a personal project that will continually evolve as I take more CS courses in the future. The purpose of this organization is simply for [me](https://github.com/FelysNeko) to manage relevant repositories.
 
 ## Copyright
 
