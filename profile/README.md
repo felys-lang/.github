@@ -4,8 +4,8 @@ This is a fan-made programming language for Elysia. It is a personal project tha
 
 ## Copyright
 
-- Organization logo © All rights reserved by miHoYo.
-- Other contents © All rights reserved by FelysNeko.
+- © All rights reserved by FelysNeko
+- Signet of Elysia © All rights reserved by miHoYo
 
 ## Legal Statement
 
