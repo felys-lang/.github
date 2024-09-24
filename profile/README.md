@@ -5,7 +5,7 @@ This is a fan-made programming language for Elysia. It is a personal project tha
 ## Copyright
 
 - © All rights reserved by FelysNeko
-- Signet of Elysia © All rights reserved by miHoYo
+- Elysia's signet © All rights reserved by miHoYo
 
 ## Legal Statement
 
